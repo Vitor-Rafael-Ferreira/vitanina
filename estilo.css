@@ -1,0 +1,38 @@
+.topo-e-fim {
+    background-color: #21022d;
+    text-align: center;
+    color: white;
+    padding: 8px;
+}
+#corpo-da-pagina {
+    height: 32px;
+    padding: 16px;
+}
+
+#vitaminas {
+    padding: 64px;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
+#vitaminasemlactose {
+    width: 600px;
+    height: 300px;
+    padding: 32px;
+}
+
+body {
+    margin: 0;
+    color: #22022d;
+    background-color: #e2d8e7;
+}
+
+h1 {
+    margin: 0;
+}
+
+#vitaminasemlactosecorpo {
+    text-align: center;
+}
